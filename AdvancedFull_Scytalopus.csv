@@ -1,0 +1,310 @@
+Trial ID,Test,Trial #,Audio File (if applicable),Location,Day of Trial,Time,Conditions (CC %),Subject,Playback,Track,Resp Start,Resp End,Length,Round,dB,Distance,Individual ID,Visual ID,Visual Distance,Observation Notes
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,1.06,1.59,0.53,1,60,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,2.29,2.43,0.14,1,NA,30,2,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,3.04,3.3,0.26,1,45,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,4.2,4.28,0.08,1,NA,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,6.22,6.48,0.26,2,50,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,7.39,7.42,0.03,2,NA,100,1,Y,,Individual across the road
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,7.59,8.01,0.02,2,NA,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,13.21,14.15,0.54,2,48,100,1,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,14.21,14.37,0.16,2,NA,15,2,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,14.58,15.17,0.19,2,NA,200,3,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,20.45,21,0.15,3,55,10,2,N,,
+SCAT101_AT,1,1,230704_0011,San Pedro,7/4/2023,6:18 AM,0,S. atratus,S. atratus,2A,22.22,22.26,0.04,3,NA,350,3,N,,
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,5.23,6.36,1.13,1,46,10,1,N,,
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,6.03,7.18,1.15,1,48,10,2,N,,"New individual responding overlap, 10m from SCAT 103 and 10m from flag so equilateral"
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,6.41,6.46,0.05,1,46,10,1,N,,"Original responder, on right new song"
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,6.24,6.36,0.12,1,NA,10,1,N,,On right og responder
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,18.52,19.23,0.31,3,51,5,2,N,,Right at very end of PB
+SCAT103_AT,2,1,230704_0013,San Pedro,7/4/2023,6:52 AM,0,S. atratus,S. atratus,4A,19.38,20.21,0.43,3,46,15,3,N,,
+SCAT104_AT,3,2,230705_0018,San Pedro,7/5/2023,8:48 AM,0,S. atratus,S. atratus,6A,3.43,5.09,1.26,1,"61 dB, 57.8",5,1,N,,
+SCAT104_AT,3,2,230705_0018,San Pedro,7/5/2023,8:48 AM,0,S. atratus,S. atratus,6A,22.11,23.02,0.52,3,"63dB, 55.3",10,1,N,,
+SCAT104_AT,3,2,230705_0018,San Pedro,7/5/2023,8:48 AM,0,S. atratus,S. atratus,6A,23.13,23.17,0.04,3,50.3,10,1,N,,
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,3.23,3.31,0.08,1,,20,1,N,,
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,3.4,3.58,0.18,1,NA,20,1,N,,
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,5.2,5.3,0.1,1,47.6,15,1,N,,To my right
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,5.48,5.53,0.05,1,NA,20,2,N,,"To my left so two individuals, this being #2"
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,30.37,30.5,0.13,4,NA,10,2,N,,
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,32.18,32.23,0.05,4,47,10,2,N,,
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,,,NA,4,,80,3,N,,Could not hear...
+SCAT101_PA,4,2,230706_0020,San Pedro,7/6/2023,6:11 AM,0,S. atratus,S. parvirostris,2P,33.02,33.05,0.03,4,NA,10,2,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,2.59,5.33,2.34,1,"60 dB, 62.2 dB, 65 dB",2,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,5.37,8.42,3.05,1,"51, 51.3, 51..2 dB",10,1,N,,Left of me..
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,9.33,10.14,0.41,1,NA,12.5,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,10.45,16.39,5.53,2,"53 dB, 48 dB, 49.1 dB, 49.3, 48.5, 48.1, 47.2, 47.1",5,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,17.07,17.09,0.02,3,Responding again (during PBR3),15,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,17.35,17.5,0.15,3,"49.8 dB, 48.2 dB, 49.1, 51.2, 49.1, 48.4, 50.1, 49 dB, 48.4",15,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,18.01,25.43,7.42,3,"49.8, 49.1, 48.4, 50.1, 49, 48.1",5,1,N,,Responding again (during PBR3)
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,26.02,26.04,0.02,3,"49.8 dB, 48.2 dB, 49.1, 51.2, 49.1, 48.4, 50.1, 49 dB, 48.4",5,1,N,,"Continuing into PBR4, 25.52"
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,28.01,31.27,3.26,4,"48.3, 47.7, 47.4, 46.8",20,1,N,,
+SCAT117_AT,5,1,230706_0024,San Pedro,7/6/2023,8:15 AM,0,S. atratus,S. atratus,5A,31.59,32.4,0.41,4,,25,1,N,,"Pretty far away now, could not be heard anymore or extremely faintly, moved away quickly 25m away deep in jungle distance"
+SCAT115_AT,6,1,230706_0025,San Pedro,7/6/2023,2:22 PM,75,S. atratus,S. atratus,6A,5.43,6.59,1.16,1,"46.5 dB, 42",15,1,N,,
+SCAT115_AT,6,1,230706_0025,San Pedro,7/6/2023,2:22 PM,75,S. atratus,S. atratus,6A,21.01,21.15,0.14,3,58,5,1,N,,
+SCAT115_AT,6,1,230706_0025,San Pedro,7/6/2023,2:22 PM,75,S. atratus,S. atratus,6A,28.02,28.26,0.24,4,NA,2,1,N,,
+SCAT104_PA,7,3,230707_0026,San Pedro,7/7/2023,6:26 AM,0,S. atratus,S. parvirostris,1P,2.58,5.24,2.26,1,"46dB, 47 dB, 46.4",15,1,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,3.54,4,0.06,1,NA,14,1,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,17.38,17.55,0.17,2,NA,250,2,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,21.22,21.26,0.04,3,NA,150,2,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,22.03,22.07,0.04,3,52 dB,15,1,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,22.24,24.02,1.38,3,"48 dB, 48.2, 49.7, 48.6, 49, 49.8, 49.9. 48.6",7,1,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,24.27,24.36,0.09,3,48.4,NA,1,N,,
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,25.06,25.16,0.1,3,47.5,150,2,N,,@ 101 point
+SCAT102_PA,8,1,230708_0030,San Pedro,7/8/2023,6:18 AM,0,S. atratus,S. parvirostris,5P,25.2,25.45,0.25,3,49dB,10,1,N,,
+SCAT109_AT,9,1,230708_0034,San Pedro,7/8/2023,6:18 AM,75,S. atratus,S. atratus,5A,3.32,3.52,0.2,1,,2,1,N,,
+SCAT109_AT,9,1,230708_0034,San Pedro,7/8/2023,6:18 AM,75,S. atratus,S. atratus,5A,19.16,19.27,0.11,3,66.7 dB,2,1,N,,
+SCAT109_AT,9,1,230708_0034,San Pedro,7/8/2023,6:18 AM,75,S. atratus,S. atratus,5A,28.57,29.08,0.11,4,59.8,7,1,N,,
+SCAT119_AT,10,1,Notes,San Pedro,7/9/2023,6:07 AM,20,S. atratus,S. atratus,7A,,,,1,,50,1,N,,
+SCAT119_AT,10,1,Notes,San Pedro,7/9/2023,6:07 AM,20,S. atratus,S. atratus,7A,,,,3,,50,1,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,1,,20,1,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,1,,20,1,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,1,,3,2,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,1,,3,2,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,2,,5,2,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,2,,5,2,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,2,,5,2,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,2,,50,3,N,,
+SCAT120_AT,11,1,Notes,San Pedro,7/9/2023,6:54 AM,50,S. atratus,S. atratus,7A,,,,4,,20,1,N,,
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,3.31,6.44,3.13,1,51 dB,5,1,N,,"7:10 AM, 3.30, R1 - GREAT AUDIO, immediately responding after PB - stoppped when other indiv responded"
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,4.08,6.44,2.36,1,"51 dB, 58.5, 51.3, 48.8, 55.2",5,2,N,,"Second individual begins singing back at first, slightly farther, 57 dB to right, 51 dB to left, both responding to each other overlapping, singing over each other"
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,6.53,7.4,0.47,1,"47.1 dB, 48.9",5,2,N,,Only one individual singing now
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,18.36,19.45,1.09,3,"48 dB, 50 dB",8,1,N,,"7:24 AM, 17:53, R3"
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,27.01,27.2,0.19,4,51.9 dB,5,3,N,,"7:32 AM, 2.28, R4"
+SCAT102_AT,12,2,230709_0038,San Pedro,7/9/2023,7:06 AM,0,S. atratus,S. atratus,3A,28.03,28.16,0.13,4,54.9 dB,5,3,N,,
+SCAT120_PA,13,2,230710_0043,San Pedro,7/10/2023,6:13 AM,5,S. atratus,S. parvirostris,5P,18.36,18.46,0.1,2,NA,NA,1,N,,"Extremely light, not sure if it counts... not mentioned in audio..."
+SCAT115_SCHU,14,3,230710_0048,San Pedro,7/10/2023,2:33 PM,50,S. atratus,S. schulenbergi,3SC,13.2,13.3,0.1,2,49.6,7,1,N,,
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,5.53,6.05,0.12,1,54.9 dB,3,1,N,,
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,16.22,16.26,0.04,2,NA,NA,1,N,,Car passes right as song begins
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,20.48,21,0.12,3,47-49.1 dB,10,1,N,,
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,27.28,27.38,0.1,4,46.9 dB,15,1,N,,
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,28.25,28.3,0.05,4,48 dB,20,1,N,,"Very quiet response, right in 101 section, deep in forested section"
+SCAT101_SCHU,15,3,230711_0049,San Pedro,7/11/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,30,30.1,0.1,4,NA,NA,1,N,,"Behind me across the road, very quiet and faint"
+SCAT120_SCHU,16,3,230711_0051,San Pedro,7/11/2023,6:48 AM,2,S. atratus,S. schulenbergi,4SC,4.42,5.58,1.16,1,"56.8 dB, 55.2 dB, 61.3, 58.4",2,1,N,,
+SCAT102_SCHU,17,3,230712_0054,San Pedro,7/12/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,5.48,6.01,0.13,1,46.7 dB,35,1,N,,
+SCAT102_SCHU,17,3,230712_0054,San Pedro,7/12/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,21.04,21.12,0.08,3,21.11,300,2,N,,
+SCAT102_SCHU,17,3,230712_0054,San Pedro,7/12/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,24.08,24.59,0.51,3,25.31,200,2,N,,
+SCAT102_SCHU,17,3,230712_0054,San Pedro,7/12/2023,6:10 AM,2,S. atratus,S. schulenbergi,1SC,28.54,29.06,0.12,4,46.8,150,2,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,0.03,2,69.3,2,1,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,0.03,2,69.3,2,1,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,2.5,2,"58.2, 60",2,1,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,2,2,"40.7, 45.7",2,1,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,0.01,4,,2,1,N,,
+SCYPAR4_PA,18,1,Notes,Wayqecha,7/16/2023,6:12 AM,0,S. parvirostris,S. parvirostris,4P,,,0.02,4,33,3,1,N,,
+SCYPAR4_AT,19,2,Notes,Wayqecha,7/17/2023,6:16 AM,100,S. parvirostris,S. atratus,5A,,,0.02,1,,7,1,N,,
+SCYPAR4_AT,19,2,Notes,Wayqecha,7/17/2023,6:16 AM,100,S. parvirostris,S. atratus,5A,,,0.07,1,39.5,12.5,1,N,,
+SCYPAR4_AT,19,2,Notes,Wayqecha,7/17/2023,6:16 AM,100,S. parvirostris,S. atratus,5A,,,0.07,3,,200,2,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,2.25,2.26,0.01,1,,10,1,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,2.52,3.02,0.1,1,,10,1,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,3.42,5.47,2.05,1,"45.4, 51.9, 49dB",10,1,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,4.02,4.52,0.5,1,40 dB,10,2,N,,Individual across the road
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,6.02,6.29,0.27,1,,10,2,N,,Four second trills each - individual across road again
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,7.4,7.41,0.01,1,39.6,10,2,N,,Original individual but individual 15m from it to its left is responding
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,8.09,8.1,0.01,1,37 dB,10,3,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,13.19,13.35,0.16,2,57.2 dB,5,3,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,16.31,16.32,0.01,2,,15,3,N,,
+SCYPAR6_PA,20,3,230718__0059,Wayqecha,7/18/2023,8:48 AM,100,S. parvirostris,S. parvirostris,4P,24.07,24.44,0.37,3,37 dB,50,4,N,,
+SCYPAR5_PA,21,4,230719_0061,Wayqecha,7/19/2023,8:04 AM,50,S. parvirostris,S. parvirostris,6P,2.11,2.12,0.01,1,,NA,1,N,,
+SCYPAR5_PA,21,4,230719_0061,Wayqecha,7/19/2023,8:04 AM,50,S. parvirostris,S. parvirostris,6P,18.29,18.38,0.09,3,,20,1,N,,
+SCYPAR1_AT,22,1,230720_0065,Wayqecha,20-Jul,9:11 AM,35,S. parvirostris,S. atratus,5A,,,0.05,1,,25,1,N,,
+SCYPAR12_PA,23,1,Notes,Wayqecha,7/20/2023,9:07 AM,70,S. parvirostris,S. parvirostris,7P_M,,,0.02,1,,3,1,N,,
+SCYPAR13_AT,24,3,Notes,Wayqecha,7/23/2023,9:24 AM,0,S. parvirostris,S. atratus,3A_M,,,0.04,1,,200,1,N,,
+SCYPAR13_PA,25,1,Notes,Wayqecha,7/20/2023,9:10 AM,85,S. parvirostris,S. parvirostris,1P_M,,,NA,1,,4,1,N,,
+SCYPAR13_PA,25,1,Notes,Wayqecha,7/20/2023,9:10 AM,85,S. parvirostris,S. parvirostris,1P_M,,,NA,2,,3,1,Y,,
+SCYPAR13_PA,25,1,Notes,Wayqecha,7/20/2023,9:10 AM,85,S. parvirostris,S. parvirostris,1P_M,,,NA,3,,15,,N,,
+SCYPAR13_PA,25,1,Notes,Wayqecha,7/20/2023,9:10 AM,85,S. parvirostris,S. parvirostris,1P_M,,Saw,NA,4,,3,1,Y,3,
+SCYPAR1_SCHU,26,2,230721_0067,Wayqecha,21-Jul,9:15 AM,25,S. parvirostris,S. schulenbergi,1SC,7.46,7.49,0.03,1,,50,1,Y,50,Visual confirmation
+SCYPAR1_SCHU,26,2,230721_0067,Wayqecha,21-Jul,9:15 AM,25,S. parvirostris,S. schulenbergi,1SC,7.36,7.41,0.05,1,,50,1,N,,
+SCYPAR1_SCHU,26,2,230721_0067,Wayqecha,21-Jul,9:15 AM,25,S. parvirostris,S. schulenbergi,1SC,27.3,30.41,3.11,4,36.7 dB,2,2,N,,
+SCYPAR14_PA,27,1,230722_0068,Wayqecha,22-Jul,6:14 AM,0,S. parvirostris,S. parvirostris,3P,9.4,9.53,0.13,1,,3,1,N,,
+SCYPAR14_PA,27,1,230722_0068,Wayqecha,22-Jul,6:14 AM,0,S. parvirostris,S. parvirostris,3P,12.56,13.1,0.14,1,36.4,20,2,N,,
+SCYPAR14_SCHU,28,2,230723_0069,Wayqecha,23-Jul,6:12 AM,100,S. parvirostris,S. schulenbergi,3SC,4.51,4.59,0.08,1,,350,1,N,,Inside forested area leading into middle of mountains off side of road
+SCYPAR14_SCHU,28,2,230723_0069,Wayqecha,23-Jul,6:12 AM,100,S. parvirostris,S. schulenbergi,3SC,19.16,19.19,0.03,3,,150,2,N,,"To my left, quick trill"
+SCYPAR14_SCHU,28,2,230723_0069,Wayqecha,23-Jul,6:12 AM,100,S. parvirostris,S. schulenbergi,3SC,23.48,23.5,0.02,3,,150,2,N,,"Quick trill, didn't point out"
+SCYPAR14_SCHU,28,2,230723_0070,Wayqecha,23-Jul,6:12 AM,100,S. parvirostris,S. schulenbergi,3SC,,,,4,,150,2,N,,"Response after end of round 4, also at 150m away..."
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,1.15,1.17,0.02,1,,40,1,N,,
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,2.49,3.05,0.16,1,36.4,40,1,N,,
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,3.11,3.14,0.03,1,,120,2,N,,In front of me
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,3.37,3.47,0.1,1,40,50,3,N,,In front of me
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,3.48,3.51,0.03,1,"35.6, 39",50,4,N,,20 m to right of one in front of me
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,4.13,4.42,0.29,1,,50,4,N,,
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,5.18,5.26,0.08,1,,100,2,N,,"Very light, behind me and far away"
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,6.39,6.49,0.1,1,,100,2,N,,"Light and faint, not picked up by dBm or recorder"
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,10.36,10.48,0.12,2,36,75,,N,,Not sure if an individual from prior rounds or new… almost as soon as PB ended
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,18.26,18.39,0.13,3,35.1,70,,N,,"Not sure if an individual from prior rounds or new…technical difficulty, brief 5 second pause in song"
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,21.09,21.15,0.06,3,40,30,4,N,,To my right
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,26.03,26.11,0.08,4,,150,,N,,"Very quiet, as soon as PB began"
+SCYPAR1_PA,29,3,230723_0071,Wayqecha,7/23/2023,9:15 AM,20,S. parvirostris,S. parvirostris,1P,27.47,28.02,0.15,4,35.6,70,,N,,Not sure if an individual from prior rounds or new - behind me
+SCYPAR2_PA,30,1,230723_0072,Wayqecha,7/23/2023,9:54 AM,12.5,S. parvirostris,S. parvirostris,3P,5.26,5.31,0.05,1,,70,1,N,,
+SCYPAR2_PA,30,1,230723_0072,Wayqecha,7/23/2023,9:54 AM,12.5,S. parvirostris,S. parvirostris,3P,22.46,22.53,0.07,3,,90,1,N,,
+SCYPAR2_PA,30,1,230723_0072,Wayqecha,7/23/2023,9:54 AM,12.5,S. parvirostris,S. parvirostris,3P,26.24,26.33,0.09,4,,100,1,N,,
+SCYPAR14_AT,31,3,230724_0073,Wayqecha,7/24/2023,6:15 AM,0,S. parvirostris,S. atratus,6A,6.4,6.45,0.05,1,,60,1,N,,
+SCYPAR14_AT,31,3,230724_0073,Wayqecha,7/24/2023,6:15 AM,0,S. parvirostris,S. atratus,6A,,,0.06,3,29,70,1,N,,
+SCYPAR2_AT,32,2,230724_0075,Wayqecha,7/24/2023,9:52 AM,5,S. parvirostris,S. atratus,5A,15.4,15.47,0.07,2,,100,1,N,,
+SCYPAR14_SI,33,4,230725_0076,Wayqecha,7/25/2023,6:15 AM,55,S. parvirostris,S. simonsi,6SI,13.06,13.17,0.11,2,36.2,25,1,N,,
+SCYPAR14_SI,33,4,230725_0076,Wayqecha,7/25/2023,6:15 AM,55,S. parvirostris,S. simonsi,6SI,24.34,24.35,0.01,3,,NA,1,N,,
+SCYPAR2_SCHU,34,3,230725_0078,Wayqecha,7/25/2023,9:41 AM,60,S. parvirostris,S. schulenbergi,1SC,20.05,20.18,0.13,3,,30,1,N,,3 individuals at once
+SCYPAR2_SCHU,34,3,230725_0078,Wayqecha,7/25/2023,9:41 AM,60,S. parvirostris,S. schulenbergi,1SC,20.05,20.18,0.13,3,42.6,30,2,N,,
+SCYPAR2_SCHU,34,3,230725_0078,Wayqecha,7/25/2023,9:41 AM,60,S. parvirostris,S. schulenbergi,1SC,20.18,20.23,0.05,3,,65,3,N,,
+SCHU101_SI,35,1,230731_0079,Tres Cruces,7/31/2023,6:53 AM,0,S. schulenbergi,S. simonsi,5SI,12.4,12.44,0.04,2,,85,1,N,,
+SI103_SI,36,1,230731_0081,Tres Cruces,7/31/2023,8:37 AM,0,S. simonsi,S. simonsi,3SI,28.59,29.11,0.12,4,31.9,25,1,N,,
+SCHU104_SCHU,37,1,230731_0082,Tres Cruces,7/31/2023,9:28 AM,50,S. schulenbergi,S. schulenbergi,2SC,14.09,14.17,0.08,2,,50,1,N,,
+SI101_SCHU,38,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. simonsi,S. schulenbergi,4SC,,,0.2,1,41.1,7,1,N,,
+SI101_SCHU,38,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. simonsi,S. schulenbergi,4SC,,,0.15,3,31,13.5,1,N,,
+SI101_SCHU,38,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. simonsi,S. schulenbergi,4SC,,,0.2,3,34,13.5,1,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.05,1,,30,1,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.05,3,,9,1,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.03,3,,85,2,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.05,3,,85,2,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.03,4,,20,1,N,,
+SCHU101_SCHU,39,2,230801_0083 + Video,Tres Cruces,8/1/2023,6:44 AM,0,S. schulenbergi,S. schulenbergi,4SC,,,0.2,4,,12,1,N,,
+SI105_AT,40,1,230801_0084,Tres Cruces,8/1/2023,3:11 PM,35,S. simonsi,S. atratus,6A,13.31,13.34,0.03,2,,200,1,N,,
+SI105_AT,40,1,230801_0084,Tres Cruces,8/1/2023,3:11 PM,35,S. simonsi,S. atratus,6A,25.21,25.23,0.02,3,,20,2,N,,
+SCHU103_AT,41,2,Notes,Tres Cruces,8/1/2023,8:25 AM,98,S. schulenbergi,S. atratus,3A,,,0.05,1,,35,1,N,,
+SCHU103_AT,41,2,Notes,Tres Cruces,8/1/2023,8:25 AM,98,S. schulenbergi,S. atratus,3A,,,0.04,2,44,15,1,N,,
+SCHU103_AT,41,2,Notes,Tres Cruces,8/1/2023,8:25 AM,98,S. schulenbergi,S. atratus,3A,,,0.3,4,28,30,1,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.02,1,,25,1,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,2,1,30.25,40,1,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,5,1,"34, 39",35,2,N,,New individual
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.38,2,,40,1,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.04,2,,125,3,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.05,2,,70,1,N,,
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.07,3,,30,1,N,,indiv 1
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.1,3,,25,2,N,,indiv 2
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.04,3,,30,4,N,,indiv 3
+SI104_SI,42,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. simonsi,S. simonsi,1SI,,,0.1,3,,27.5,2,N,,
+SCHU104_SI,43,2,Notes,Tres Cruces,8/1/2023,9:09 AM,85,S. schulenbergi,S. simonsi,1SI,,,0.05,4,36,15,1,N,,
+SI106_PA,44,1,230802_0085,Tres Cruces,8/2/2023,5:59 AM,90,S. simonsi,S. parvirostris,1P,4.53,5.14,0.21,1,29,30,1,N,,
+SI106_PA,44,1,230802_0085,Tres Cruces,8/2/2023,5:59 AM,90,S. simonsi,S. parvirostris,1P,14.48,15.2,0.32,2,28.8,30,2,N,,
+SI106_PA,44,1,230802_0085,Tres Cruces,8/2/2023,5:59 AM,90,S. simonsi,S. parvirostris,1P,16.24,16.43,0.19,2,,35,2,N,,
+SI106_PA,44,1,230802_0085,Tres Cruces,8/2/2023,5:59 AM,90,S. simonsi,S. parvirostris,1P,34.26,34.31,0.05,4,,35,2,N,,
+SCHU106_PA,45,1,230802_0085,Tres Cruces,8/2/2023,5:59 AM,90,S. schulenbergi,S. parvirostris,1P,12.36,12.39,0.03,2,,30,1,N,,
+SCHU101_AT,46,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,3.4,7.07,3.27,1,"40, 27",40,1,Y,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,,,,1,,5,2,Y,5,Visual ID
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,15.34,15.38,0.04,2,,55,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,17.52,18.17,0.25,3,,55,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,19.04,19.18,0.14,3,,55,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,20.11,20.31,0.2,3,,55,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,21.37,21.49,0.12,3,,55,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,26.38,26.51,0.13,4,27.8,30,1,N,,
+SCHU101_AT,47,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. schulenbergi,S. atratus,2A,30.31,30.37,0.06,4,27.9,55,1,N,,
+SI101_AT,48,3,230802_0086,Tres Cruces,8/2/2023,6:49 AM,65,S. simonsi,S. atratus,2A,10.14,10.28,0.14,2,,20,1,N,,
+SI102_SI,49,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. simonsi,S. simonsi,4SI,3.05,3.06,0.01,1,,50,1,N,,
+SI102_SI,49,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. simonsi,S. simonsi,4SI,3.24,3.47,0.23,1,,50,1,N,,
+SI102_SI,49,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. simonsi,S. simonsi,4SI,,13.1,,2,,5,2,Y,5,
+SI102_SI,49,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. simonsi,S. simonsi,4SI,18.13,18.21,0.08,3,,5,2,N,,
+SI102_SI,49,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. simonsi,S. simonsi,4SI,27.28,28.11,0.43,4,39.8,5,2,N,,
+SCHU102_SI,50,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. schulenbergi,S. simonsi,4SI,30.34,30.35,0.01,4,,60,1,N,,
+SCHU102_SI,50,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. schulenbergi,S. simonsi,4SI,30.41,30.42,0.01,4,,60,1,N,,
+SCHU102_SI,50,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. schulenbergi,S. simonsi,4SI,30.5,30.51,0.01,4,,60,1,N,,
+SCHU102_SI,50,2,230802_0087,Tres Cruces,8/2/2023,7:42 AM,50,S. schulenbergi,S. simonsi,4SI,31.16,31.19,0.03,4,,60,1,N,,
+SCHU103_SCHU,51,3,230802_0088,Tres Cruces,8/2/2023,8:28 AM,60,S. schulenbergi,S. schulenbergi,2SC,8.36,8.38,0.02,1,,60,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.07,1,28,7,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.2,2,"47, 49.2",5,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.15,3,,7,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.35,3,49.3,4,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.15,4,,5,1,N,,
+SCHU104_AT,52,4,Notes,Tres Cruces,8/3/2023,9:12 AM,98,S. schulenbergi,S. atratus,5A,,,0.45,4,49,4,1,N,,
+SI101_PA,53,4,Notes,Tres Cruces,8/3/2023,6:53 AM,0,S. simonsi,S. parvirostris,6P,,,0.07,3,29,7,1,N,,
+SI101_PA,53,4,Notes,Tres Cruces,8/3/2023,6:53 AM,0,S. simonsi,S. parvirostris,6P,,,0.03,4,,17.5,2,N,,
+SI101_PA,53,4,Notes,Tres Cruces,8/3/2023,6:53 AM,0,S. simonsi,S. parvirostris,6P,,,0.07,4,,9,1,N,,
+SCHU102_AT,54,3,Notes,Tres Cruces,8/3/2023,7:37 AM,90,S. schulenbergi,S. atratus,1A,,,0.05,3,,30,1,N,,
+SI106_SCHU,55,2,Notes,Tres Cruces,8/3/2023,6:16 AM,5,S. simonsi,S. schulenbergi,2SC,,,0.12,1,36.5,12,1,N,,In front of me
+SI106_SCHU,55,2,Notes,Tres Cruces,8/3/2023,6:16 AM,5,S. simonsi,S. schulenbergi,2SC,,,0.17,2,34,12,1,N,,"To my left, same from before"
+SI106_SCHU,55,2,Notes,Tres Cruces,8/3/2023,6:16 AM,5,S. simonsi,S. schulenbergi,2SC,,,0.03,3,,25,2,N,,To my right
+SI106_SCHU,55,2,Notes,Tres Cruces,8/3/2023,6:16 AM,5,S. simonsi,S. schulenbergi,2SC,,,0.08,4,,4,3,N,,To my right
+SCHU106_SCHU,56,2,Notes,Tres Cruces,8/3/2023,6:16 AM,5,S. schulenbergi,S. schulenbergi,2SC,,,0.04,1,,30,1,N,,
+SCHU106_SI,57,3,Notes,Tres Cruces,8/4/2023,6:25 AM,80,S. schulenbergi,S. simonsi,3SI,,,1.1,1,"28.4, 32",40,1,Y,,In front of me
+SCHU106_SI,57,3,Notes,Tres Cruces,8/4/2023,6:25 AM,80,S. schulenbergi,S. simonsi,3SI,,,0.09,2,28,25,2,N,,To my right
+SCHU106_SI,57,3,Notes,Tres Cruces,8/4/2023,6:25 AM,80,S. schulenbergi,S. simonsi,3SI,,,0.07,3,,60,3,N,,
+SCHU106_SI,57,3,Notes,Tres Cruces,8/4/2023,6:25 AM,80,S. schulenbergi,S. simonsi,3SI,,,1.2,3,30.1,35,1,N,,
+SI106_SI,58,3,Notes,Tres Cruces,8/4/2023,6:25 AM,80,S. simonsi,S. simonsi,3SI,,,0.2,3,28.2,40,1,N,,
+SI107_SCHU,59,1,Notes,Tres Cruces,8/4/2023,7:58 AM,90,S. simonsi,S. schulenbergi,2SC,,,0.05,1,,30,1,N,,Behind
+SI107_SCHU,59,1,Notes,Tres Cruces,8/4/2023,7:58 AM,90,S. simonsi,S. schulenbergi,2SC,,,0.08,3,28.1,15,1,N,,Behind
+SI107_SCHU,59,1,Notes,Tres Cruces,8/4/2023,7:58 AM,90,S. simonsi,S. schulenbergi,2SC,,,0.05,4,,20,1,N,,To my left
+SCHU107_SCHU,60,1,Notes,Tres Cruces,8/4/2023,7:58 AM,90,S. schulenbergi,S. schulenbergi,2SC,,,0.3,3,35,20,1,N,,To my right
+SI106_AT,61,4,Notes,Tres Cruces,8/5/2023,6:20 AM,50,S. simonsi,S. atratus,6A,,,0.15,1,,60,1,N,,
+SI106_AT,61,4,Notes,Tres Cruces,8/5/2023,6:20 AM,50,S. simonsi,S. atratus,6A,,,2.45,2,,45,1,N,,More to my right
+SI106_AT,61,4,Notes,Tres Cruces,8/5/2023,6:20 AM,50,S. simonsi,S. atratus,6A,,,1,4,,50,1,N,,
+SCHU107_AT,62,2,Notes,Tres Cruces,8/5/2023,7:53 AM,55,S. schulenbergi,S. atratus,1A,,,0.4,1,28,25,1,N,,
+SCHU107_AT,62,2,Notes,Tres Cruces,8/5/2023,7:53 AM,55,S. schulenbergi,S. atratus,1A,,,0.07,2,43.7,7,1,N,,Left
+SCHU107_AT,62,2,Notes,Tres Cruces,8/5/2023,7:53 AM,55,S. schulenbergi,S. atratus,1A,,,,3,,2,1,Y,2,"Left, visual ID"
+SCHU110_SCHU,63,1,Notes,Tres Cruces,8/5/2023,9:55 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,0.1,1,,12,1,N,,
+SCHU110_SI,64,2,Notes,Tres Cruces,8/6/2023,10:20 AM,100,S. schulenbergi,S. simonsi,4SI,,,0.05,3,29.1,23,1,N,,
+SCHU108_PA,65,2,Notes,Tres Cruces,8/6/2023,8:55 AM,65,S. schulenbergi,S. parvirostris,2P,,,0.15,1,,8,1,N,,
+SCHU108_PA,65,2,Notes,Tres Cruces,8/6/2023,8:55 AM,65,S. schulenbergi,S. parvirostris,2P,,,0.1,1,48,10,,N,,"To my left, not sure if new individual or not..."
+SCHU108_PA,65,2,Notes,Tres Cruces,8/6/2023,8:55 AM,65,S. schulenbergi,S. parvirostris,2P,,,0.15,2,45,10,1,N,,In front of me
+SCHU108_PA,65,2,Notes,Tres Cruces,8/6/2023,8:55 AM,65,S. schulenbergi,S. parvirostris,2P,,,0.07,4,,8,1,N,,In front of me
+SI107_SI,66,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. simonsi,S. simonsi,3SI,,,0.1,1,,15,1,N,,To left
+SI107_SI,66,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. simonsi,S. simonsi,3SI,,,0.09,1,28,25,1,N,,Behind me
+SI107_SI,66,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. simonsi,S. simonsi,3SI,,,0.23,2,,22.5,1,N,,To left
+SI107_SI,66,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. simonsi,S. simonsi,3SI,,,0.12,3,33.2,15,1,N,,Behind me to left
+SI107_SI,66,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. simonsi,S. simonsi,3SI,,,0.03,4,,27.5,1,N,,
+SCHU107_SI,67,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. schulenbergi,S. simonsi,3SI,,,0.08,1,48.8,10,1,N,,To my left
+SCHU107_SI,67,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. schulenbergi,S. simonsi,3SI,,,0.08,3,44,15,1,N,,
+SCHU107_SI,67,3,Notes,Tres Cruces,8/6/2023,8:08 AM,60,S. schulenbergi,S. simonsi,3SI,,,0.05,4,28,27.5,1,N,,
+SCHU109_AT,68,1,Notes,Tres Cruces,8/6/2023,9:38 AM,75,S. schulenbergi,S. atratus,3A,,,1.3,1,36.6,17,1,N,,"To my left, making rounds"
+SCHU109_AT,68,1,Notes,Tres Cruces,8/6/2023,9:38 AM,75,S. schulenbergi,S. atratus,3A,,,0.08,3,50.9,7,1,N,,To my left
+SCHU109_AT,68,1,Notes,Tres Cruces,8/6/2023,9:38 AM,75,S. schulenbergi,S. atratus,3A,,,0.17,4,,10,1,N,,
+SI116_SCHU,69,1,Notes,Tres Cruces,8/6/2023,7:25 AM,40,S. simonsi,S. schulenbergi,1SC,,,0.06,3,28,20,1,N,,Went from right to behind me
+SCHU116_SCHU,70,1,Notes,Tres Cruces,8/6/2023,7:25 AM,40,S. schulenbergi,S. schulenbergi,1SC,,,0.1,1,32.8,20,1,N,,
+SCHU116_SCHU,70,1,Notes,Tres Cruces,8/6/2023,7:25 AM,40,S. schulenbergi,S. schulenbergi,1SC,,,0.09,1,36.5,15,1,N,,
+SCHU109_PA,71,2,Notes,Tres Cruces,8/8/2023,9:34 AM,75,S. schulenbergi,S. parvirostris,3P,,,0.15,2,42.9,8,1,N,,To my left
+SCHU109_PA,71,2,Notes,Tres Cruces,8/8/2023,9:34 AM,75,S. schulenbergi,S. parvirostris,3P,,,0.15,4,,9,1,N,,In front of me
+SI109_PA,71,2,Notes,Tres Cruces,8/8/2023,9:34 AM,75,S. simonsi,S. parvirostris,3P,,,1,4,,50,1,N,,To my right
+SI107_PA,72,4,Notes,Tres Cruces,8/8/2023,8:08 AM,70,S. simonsi,S. parvirostris,5P,,,0.45,1,,35,1,N,,Behind me
+SI107_PA,72,4,Notes,Tres Cruces,8/8/2023,8:08 AM,70,S. simonsi,S. parvirostris,5P,,,0.09,4,28,15,2,N,,Ahead
+SI107_PA,72,4,Notes,Tres Cruces,8/8/2023,8:08 AM,70,S. simonsi,S. parvirostris,5P,,,0.2,4,,30,1,N,,Behind me
+SCHU107_PA,73,4,Notes,Tres Cruces,8/8/2023,9:34 AM,70,S. schulenbergi,S. parvirostris,5P,,,0.08,4,46,7,1,N,,To left/front
+SCHU110_AT,74,3,Notes,Tres Cruces,8/8/2023,10:18 AM,100,S. schulenbergi,S. atratus,1A,,,0.15,1,53.8,6,1,N,,Behind me in trees
+SCHU110_AT,74,3,Notes,Tres Cruces,8/8/2023,10:18 AM,100,S. schulenbergi,S. atratus,1A,,,0.05,1,,15,2,N,,"Diff individual, behind me also"
+SCHU110_AT,74,3,Notes,Tres Cruces,8/8/2023,10:18 AM,100,S. schulenbergi,S. atratus,1A,,,0.05,1,58,5,1,N,,To my left behind me
+SCHU110_AT,74,3,Notes,Tres Cruces,8/8/2023,10:18 AM,100,S. schulenbergi,S. atratus,1A,,,0.15,4,36.2,10,,N,,"In front of me, not sure/not noted if individual from before, no way of confirming"
+SCHU110_AT,74,3,Notes,Tres Cruces,8/8/2023,10:18 AM,100,S. schulenbergi,S. atratus,1A,,,0.05,4,,10,,N,,"Same individual in front of me, short trill"
+SI116_AT,75,2,Notes,Tres Cruces,8/8/2023,7:28 AM,30,S. simonsi,S. atratus,5A,,,0.04,3,,30,1,N,,
+SCHU116_AT,76,2,Notes,Tres Cruces,8/8/2023,7:28 AM,30,S. schulenbergi,S. atratus,5A,,,0.15,2,28.2,30,1,N,,
+SCHU116_AT,76,2,Notes,Tres Cruces,8/8/2023,7:28 AM,30,S. schulenbergi,S. atratus,5A,,,0.2,4,28,30,1,N,,
+SCHU108_SCHU,77,4,Notes,Tres Cruces,8/9/2023,8:40 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,NA,3,37.4,17.5,1,N,,
+SCHU109_SCHU,78,3,Notes,Tres Cruces,8/9/2023,9:44 AM,100,S. schulenbergi,S. schulenbergi,2SC,,,0.2,1,58.5,6,1,N,,Behind me
+SCHU109_SCHU,78,3,Notes,Tres Cruces,8/9/2023,9:44 AM,100,S. schulenbergi,S. schulenbergi,2SC,,,0.25,3,53.7,6,1,N,,Behind me
+SI116_PA,79,3,Notes,Tres Cruces,8/9/2023,7:32 AM,40,S. simonsi,S. parvirostris,3P,,,2,1,,40,1,N,,
+SI116_PA,79,3,Notes,Tres Cruces,8/9/2023,7:32 AM,40,S. simonsi,S. parvirostris,3P,,,0.2,3,,20,1,N,,
+SCHU114_SI,80,1,Notes,Tres Cruces,8/10/2023,6:55 AM,0,S. schulenbergi,S. simonsi,6SI,,,NA,2,,100,1,N,,Responses coming from 115
+SCHU114_SI,80,1,Notes,Tres Cruces,8/10/2023,6:55 AM,0,S. schulenbergi,S. simonsi,6SI,,,NA,4,,100,1,N,,
+SI114_SI,81,1,Notes,Tres Cruces,8/10/2023,6:55 AM,0,S. simonsi,S. simonsi,6SI,,,0.3,1,,30,1,N,,To my left
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,0.3,1,43.9,15,1,N,,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,1.34,2,39,14,1,N,,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,0.16,2,44,13.5,1,N,,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,0.11,2,,20,2,N,,"New individual, visible, 1m, flitted 5m away"
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,,3,,1,1,Y,1,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,,,,3,,5,1,Y,5,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,13.01,13.07,0.06,3,,5,1,N,,
+SCHU112_AT,82,1,230810_0092 + Notes,Tres Cruces,8/10/2023,8:25 AM,30,S. schulenbergi,S. atratus,5A,18.25,18.51,0.26,4,47,5,1,N,,
+SCHU113_SI,83,1,230810_0093,Tres Cruces,8/10/2023,9:13 AM,100,S. schulenbergi,S. simonsi,4SI,2.12,2.17,0.05,1,,8,1,N,,Behind me
+SCHU113_SI,83,1,230810_0093,Tres Cruces,8/10/2023,9:13 AM,100,S. schulenbergi,S. simonsi,4SI,10.33,10.47,0.14,2,30.5,20,2,N,,In front of me to my left slightly
+SCHU113_SI,83,1,230810_0093,Tres Cruces,8/10/2023,9:13 AM,100,S. schulenbergi,S. simonsi,4SI,18.22,18.24,0.02,3,,NA,,N,,
+SCHU113_SI,83,1,230810_0093,Tres Cruces,8/10/2023,9:13 AM,100,S. schulenbergi,S. simonsi,4SI,24.5,25.03,0.13,4,43,8,1,N,,To my right
+SCHU115_SCHU,84,1,Notes,Tres Cruces,8/11/2023,10:08 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,0.07,2,,15,1,N,,To my right
+SCHU115_SCHU,84,1,Notes,Tres Cruces,8/11/2023,10:08 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,0.1,3,,10,2,N,,To my left
+SCHU115_SCHU,84,1,Notes,Tres Cruces,8/11/2023,10:08 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,0.05,4,40,10,1,N,,To my right
+SCHU115_SCHU,84,1,Notes,Tres Cruces,8/11/2023,10:08 AM,100,S. schulenbergi,S. schulenbergi,4SC,,,0.12,4,48,6,2,N,,"To my left, new individual"
+SCHU112_SI,85,2,Notes,Tres Cruces,8/11/2023,8:33 AM,100,S. schulenbergi,S. simonsi,1SI,,,0.15,1,39.3,15,1,N,,
+SCHU113_AT,86,2,Notes,Tres Cruces,8/11/2023,9:13 AM,100,S. schulenbergi,S. atratus,6A,,,,,,100,1,N,,Very far off diadedemed trill...
+SCHU113_AT,86,2,Notes,Tres Cruces,8/11/2023,9:13 AM,100,S. schulenbergi,S. atratus,6A,,,0.33,2,30.5,30,2,N,,
+SCHU113_AT,86,2,Notes,Tres Cruces,8/11/2023,9:13 AM,100,S. schulenbergi,S. atratus,6A,,,0.08,4,32,10,3,N,,Behind me
+SCHU114_PA,87,2,Notes,Tres Cruces,8/11/2023,7:00 AM,80,S. schulenbergi,S. parvirostris,5P,,,0.08,1,,50,1,N,,In front of me
+SCHU114_PA,87,2,Notes,Tres Cruces,8/11/2023,7:00 AM,80,S. schulenbergi,S. parvirostris,5P,,,0.1,2,,70,1,N,,
+SCHU114_PA,87,2,Notes,Tres Cruces,8/11/2023,7:00 AM,80,S. schulenbergi,S. parvirostris,5P,,,0.01,4,,100,2,N,,"""Very far off..."""
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.08,1,,100,1,N,,
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.08,1,,90,1,N,,
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.03,2,,90,1,N,,
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.04,3,,85,1,N,,
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.2,3,,85,1,N,,
+SCHU114_AT,88,3,Notes,Tres Cruces,8/12/2023,6:54 AM,50,S. schulenbergi,S. atratus,1A,,,0.05,4,,85,1,N,,
+SI111_SI,89,3,Notes,Tres Cruces,8/12/2023,2:22 PM,100,S. simonsi,S. simonsi,2SI,,,0.55,1,,13.5,1,N,,In deeper part of wood patch
+SI111_SI,89,3,Notes,Tres Cruces,8/12/2023,2:22 PM,100,S. simonsi,S. simonsi,2SI,,,2.45,3,,20,1,N,,To my right
+SCHU113_SCHU,90,3,Notes,Tres Cruces,8/12/2023,9:12 AM,100,S. schulenbergi,S. schulenbergi,1SC,,,0.2,2,30,15,1,N,,In front of me
+SCHU113_SCHU,90,3,Notes,Tres Cruces,8/12/2023,9:12 AM,100,S. schulenbergi,S. schulenbergi,1SC,,,NA,4,,6,1,N,,To my right
+SI114_AT,91,3,230810_0094,Tres Cruces,8/12/2023,6:54 AM,50,S. simonsi,S. atratus,1A,,,0.02,3,,85,1,N,,
+SCHU115_SI,92,2,Notes,Tres Cruces,8/12/2023,9:55 AM,100,S. schulenbergi,S. simonsi,6SI,,,0.08,1,,15,1,N,,
+SI114_SCHU,93,4,Notes,Tres Cruces,8/13/2023,6:54 AM,50,S. simonsi,S. schulenbergi,2SC,,,0.25,4,28.2,25,1,N,,
+SCHU114_SCHU,94,4,Notes,Tres Cruces,8/13/2023,6:54 AM,50,S. schulenbergi,S. schulenbergi,2SC,,,0.06,1,,80,1,N,,
+SCHU115_PA,95,3,Notes,Tres Cruces,8/13/2023,9:35 AM,100,S. schulenbergi,S. parvirostris,3P,,,1,1,,5,1,N,,
